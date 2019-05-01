@@ -1,4 +1,3 @@
-terefere
 export default {
     'WELCOME': 'Witaj',
     'TICKETS': 'Zgłoszenia',
