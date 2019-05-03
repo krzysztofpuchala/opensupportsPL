@@ -287,7 +287,7 @@ export default {
     'SUPPORT_CENTER_DESCRIPTION': 'Witamy w centrum pomocy technicznej. Możesz skontaktować się z nami za pośrednictwem systemu zgłoszeń. Twoje zgłoszenia zostaną odebrane przez nasz personel.',
     'CUSTOM_RESPONSES_DESCRIPTION': 'Niestandardowe odpowiedzi to automatyczne odpowiedzi na typowe problemy',
     'CUSTOM_TAGS_DESCRIPTION': 'Tutaj możesz wyświetlić zarządzające niestandardowe tagi zgłoszeń, aby lepiej je zidentyfikować',
-    'MY_TICKETS_DESCRIPTION': 'Here you can view the tickets you are responsible for.',
+    'MY_TICKETS_DESCRIPTION': 'Tutaj Here you can view the tickets you are responsible for.',
     'NEW_TICKETS_DESCRIPTION': 'Here you can view all the new tickets that are not assigned by anyone.',
     'ALL_TICKETS_DESCRIPTION': 'Here you can view the tickets of the departments you are assigned.',
     'TICKET_VIEW_DESCRIPTION': 'This ticket has been sent by a customer. Here you can respond or assign the ticket',
